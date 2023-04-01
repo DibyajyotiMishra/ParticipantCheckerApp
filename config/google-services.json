@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005972251908",
+    "project_id": "techfest-90fcb",
+    "storage_bucket": "techfest-90fcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005972251908:android:0b55dd6a494cca702d9c51",
+        "android_client_info": {
+          "package_name": "com.tantrotsav.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005972251908-minvf3kbar101b0s4kj07ei3npphei3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7fVk1thNUiQHY0ZoRpECjQn_SbMhapw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005972251908-e8t7fvd9brsdvshe2ac17l5010b8f0si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
