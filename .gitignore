@@ -71,7 +71,6 @@ yarn-error.log
 .metro-health-check*
 
 # Expo
-.expo/
 web-build/
 dist/
 

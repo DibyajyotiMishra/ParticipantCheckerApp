@@ -30,6 +30,9 @@
       "infoPlist": {
         "NSCameraUsageDescription": "Allow $(PRODUCT_NAME) to access camera.",
         "NSMicrophoneUsageDescription": "Allow $(PRODUCT_NAME) to access your microphone"
+      },
+      "runtimeVersion": {
+        "policy": "sdkVersion"
       }
     },
     "android": {
@@ -41,7 +44,8 @@
       "permissions": [
         "android.permission.CAMERA"
       ],
-      "package": "com.tantrotsav.admin"
+      "package": "com.tantrotsav.admin",
+      "runtimeVersion": "1.0.0"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -50,6 +54,9 @@
       "eas": {
         "projectId": "f7c01367-83b8-4f8f-8e59-7f31fdd470d1"
       }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f7c01367-83b8-4f8f-8e59-7f31fdd470d1"
     }
   }
 }
